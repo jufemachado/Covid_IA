@@ -1,4 +1,4 @@
-Etiquetas de fila;Suma de casesMonth;Suma de deathMonth;Promedio de gdp;Promedio de extremePoverty;Promedio de cardiovascDeathRate;Promedio de diabetesPrevalence;Promedio de lifeExpectancy;Promedio de humanDevIndex
+Country;casesMonth;deathMonth;gdp;extremePoverty;cardiovascDeathRate;diabetesPrevalence;lifeExpectancy;humanDevIndex
 Afghanistan;49273;1971;1803,987;;597,029;9,59;64,83;0,511
 Albania;48530;1003;11803,431;1,1;304,195;10,08;78,57;0,795
 Algeria;92102;2596;13913,839;0,5;278,364;6,73;76,88;0,748
